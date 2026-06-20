@@ -1,0 +1,5 @@
+Foreign Key ek column hota hai jo doosri table ke Primary Key ko refer karta hai.
+
+Iska purpose tables ke beech relationship banana aur data consistency maintain karna hota hai.
+
+DEFAULT ka matlab hai ki agar aap kisi column me value nahi dete, to MySQL automatically ek predefined value insert kar dega.
